@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# (Optional) If your dataset was massive, you would add data/ here, 
+# but since yours is a small 200-row CSV, it's safe to upload!
